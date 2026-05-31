@@ -1,4 +1,3 @@
-SCRIPT NAME: Millimeter-to-Pixel Image Batch Cropper
 DESCRIPTION:
   This script automates the precise cropping of a batch of images located in
   an input directory. Instead of using pixel measurements, it allows the user
